@@ -81,7 +81,7 @@
                     <div class="navbar-nav ms-auto py-0 pe-4">
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="sobrenosotros.php" class="nav-item nav-link">Sobre nosotros</a>
-                        <a href="servicio.php" class="nav-item nav-link">Servicios</a>
+                        <a href="servicio.php" class="nav-item nav-link">Servicio</a>
                         <a href="menu.php" class="nav-item nav-link">Menu</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Paginas</a>
